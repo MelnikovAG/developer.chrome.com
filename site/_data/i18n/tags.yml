@@ -12,7 +12,7 @@ amp:
   en: AMP
 
 autoplay:
-  en: autoplay
+  en: Autoplay
 
 chromium-chronicle:
   en: Chromium Chronicle
@@ -76,3 +76,6 @@ new-in-devtools:
 
 devtools-engineering:
   en: DevTools Engineering
+
+origin-trials:
+  en: Origin Trials
